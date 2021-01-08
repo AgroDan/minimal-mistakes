@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Agro Hacks Stuff"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Just notes I've taken."
 name                     : "Dan"
 description              : "I take a lot of notes and figured why not post them to my website?"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
